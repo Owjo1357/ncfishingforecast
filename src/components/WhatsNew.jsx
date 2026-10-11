@@ -177,6 +177,14 @@ export default function WhatsNew() {
             instead.
           </div>
 
+          <p className="mt-4 text-sm leading-snug" style={{ color: "var(--label)" }}>
+            Have feedback or suggestions? Email{" "}
+            <a href="mailto:contact@ncfishingforecast.com" className="font-semibold" style={{ color: "var(--accent)" }}>
+              contact@ncfishingforecast.com
+            </a>
+            .
+          </p>
+
         </div>
 
         {/* Pinned to the bottom of the sheet so it's reachable on short
