@@ -69,7 +69,7 @@ npm test
 
 ## Feedback
 
-Have a spot correction or a feature idea? Email **[owencedmondson@gmail.com](mailto:owencedmondson@gmail.com)**.
+Have feedback or suggestions? Email **[contact@ncfishingforecast.com](mailto:contact@ncfishingforecast.com)**.
 
 ## A note on safety
 
